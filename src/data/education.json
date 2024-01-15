@@ -1,0 +1,20 @@
+[
+    {
+        "institution": "Visvesvaraya Technological University",
+        "degree": "B.Tech Computer Science and Engineering",
+        "gpa": 9.14,
+        "total_gpa": 10.0,
+        "location": "Karnataka, India",
+        "timeperiod": "July 2016 - August 2020",        
+        "logo": "vtu_logo.jpeg"
+    },
+    {
+        "institution": "Purdue University",
+        "degree": "Masters in Science Computer Science",
+        "gpa": 4.0,
+        "total_gpa": 4.0,
+        "location": "Indiana, USA",
+        "timeperiod": "August 2023 - May 2025",
+        "logo": "Purdue_logo.svg"
+    }
+]

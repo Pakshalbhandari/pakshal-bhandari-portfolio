@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Software Engineer",
+        "timePeriod": "January 2022 - July 2023",
+        "company": "Zmanda, BETSOL",
+        "description": [
+            "Developed and delivered Python and Django training sessions for new employees, fostering a supportive learning environment and ensuring seamless team integration.",
+            "Successfully resolved numerous critical production bugs with exceptional efficiency, minimizing downtime and ensuring product stability.",
+            "Served as Team Lead and Subject Matter Expert for VMware on high-impact projects at Betsol, showcasing versatile leadership and technical acumen in successfully executing multiple projects.",
+            "Conceived and developed RESTful APIs for backup, restore and licensing modules, fortifying the product's backend capabilities.",
+            "Played a pivotal role in architectural discussions and actively contributed to the implementation of client-side data deduplication, handling key tasks and milestones within the project."
+        ]
+    },
+    {
+        "title": "Associate Software Engineer",
+        "timePeriod": "August 2020 - December 2021",
+        "company": "Zmanda, BETSOL",
+        "description": [
+            "Championed the seamless migration of one million Salesforce records to HubSpot CRM, orchestrating a meticulous process to guarantee uninterrupted operations and zero application downtime.",
+            "Created a versatile migration script to facilitate effortless customer upgrades, prioritizing data preservation through backups and ensuring compatibility with the latest version.",
+            "Engineered integrations with HashiCorp Vault, resulting in a fortified security posture and a significant reduction in development time for Zmanda's cryptographic infrastructure",
+            "Oversaw end-to-end backend deployments and implemented automated scripts for data collection, parsing, and analysis, significantly boosting support team efficiency in debugging and issue resolution.",
+            "Gained proficiency in various technologies including Python,Springboot, Bash scripting, Django framework, Flask and git repository maintenance."
+        ]
+    },
+    {
+        "title": "Software Engineer Intern",
+        "timePeriod": "January 2020 - March 2020",
+        "company": "Zmanda, BETSOL",
+        "description": [
+            "Headed research and development efforts to enhance Zmanda's license generation, incorporating advanced cryptographic algorithms for increased security.",
+            "Strengthened the security of the licensing module by implementing multi-layered security measures, including key management and authorization protocols, resulting in a 60% reduction in license misuse.",
+            "Created a versatile migration script to facilitate effortless customer upgrades, prioritizing data preservation through backups and ensuring compatibility with the latest version.",
+            "Attained a 99% license validation success rate, contributing to a significant boost in customer satisfaction.",
+            "Worked on optimizing and developing several Rest APIs for synchronous and asynchronous workloads"
+        ]
+    }
+]

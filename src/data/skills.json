@@ -1,0 +1,67 @@
+[
+    {
+        "icon": "icons8-database-50.png",
+        "name": "SQL",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-deep-learning-64.png",
+        "name": "Deep Learning",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-django.svg",
+        "name": "",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-docker.svg",
+        "name": "Docker",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-flask-50.png",
+        "name": "",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-git-48.png",
+        "name": "Git",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-gitlab.svg",
+        "name": "Gitlab CI",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-html.svg",
+        "name": "HTML",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-jenkins.svg",
+        "name": "Jenkins",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-keras-24.png",
+        "name": "Keras",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-linux-48.png",
+        "name": "Linux",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-python.svg",
+        "name": "Python",
+        "icon-style": ""
+    },
+    {
+        "icon": "icons8-tensorflow.svg",
+        "name": "Tensorflow",
+        "icon-style": ""
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "author": "Chandra Ravipati",
+        "text": "Pakshal is one of the sharpest young engineers I worked with. He is sharp, hard working and has a great attitude. He took on the job of understanding a complex sub system in our flagship product and mastered it. He helped us resolve issues, add features and redesign parts of it. He moved on to do his masters, but I would gladly hire him back when he is ready to come back. I highly recommend him.  ",
+        "relation": "Senior but didn't manage directly",
+        "position": "Vice President of Engineering at BETSOL"
+    },
+    {
+        "author": "Federico Vovard",
+        "text": "Pakshal has been great to work with. Helped solve some of the complex and time sensitive problems we've faced, leading to quick turn-around times. He's always up for a challenge, and delivers, all of this with a sunny disposition. 10/10 would like to work with him again. Made my life easier.",
+        "relation": "Senior but didn't manage directly",
+        "position": "Product Management"
+    },
+    {
+        "author": "Ashok Reddy",
+        "text": "Pakshal joined BETSOL as a campus hire and quickly moved to the role of a mentor. He became one of the go to guys for VMWare related technical debt. He thinks outside the box and comes up with good solutions. He was able to effectively contribute to technical discussions to solve tough software problems. Would be happy to hire him back!  ",
+        "relation": "Senior but didn't manage directly",
+        "position": "Chairman and CEO at BETSOL"
+    },
+    {
+        "author": "Boopathi Venkatasamy Krishna",
+        "text": "Pakshal is a valuable asset to the Betsol team. While working on one of our products, he emerged as a key contributor, consistently delivering successful releases. He possesses the ability to analyze requested solutions swiftly and provide high-quality code promptly. Pakshal's commitment to delivering superior work with his meticulous attention to detail and dedication to required standards. Furthermore, he maintains punctual delivery, ensuring that features are completed within deadlines. Additionally, he proactively highlights potential risks well in advance. Good Luck and keep up your great skills.",
+        "relation": "Managed directly",
+        "position": "Development Manager at BETSOL"
+    },
+    {
+        "author": "Aneesh Nireshwalia",
+        "text": "Pakshal joined our company as a fresher and quickly moved to the role of a mentor for a number of junior developers in our team. He has been one of our top developers and has an excellent sense of software design. He has worked on a number of challenging development tasks and always completed them with great quality. He was also our go to person for resolving some of the most challenging customer issues especially on the VMWare front. He also has the knack of thinking outside the box and coming up with compelling and effective solutions. It was always delightful and fulfilling to get into technical discussions and solve tough software problems with Pakshal. He has a very bright future ahead of him and wish him the very best for his future ventures!",
+        "position": "Technical Architect at BETSOL",
+        "relation": "Senior but didn't manage directly"
+    },
+    {
+        "author": "Felix L",
+        "text": "I feel very fortunate to have had the opportunity to work with Pakshal these years! Always with a willingness to help, he brings great value to the team and to all the activities he participates in. I hope to be able to work with him again.",
+        "position": "Cybersecurity Architect & Security Engineer",
+        "relation":"Senior but didn't manage directly"
+    },
+    {
+        "author": "Utkarsh Jain",
+        "text": "I had the pleasure of working with Pakshal at BETSOL. As his colleague and mentor at work, I was thoroughly impressed with his technical prowess, problem-solving abilities, and dedication to resolving critical bugs. We worked on several application modules from the ground up for a major release of the product. I witnessed him excel in his role and make significant contributions to our team. Pakshal has a deep understanding of backend technologies, including Python and Django, and has shown remarkable proficiency in fixing critical bugs, often resolving complex issues with ease. His technical expertise, coupled with his problem-solving skills, was invaluable to our team, and he consistently delivered high-quality results in a timely manner. Moreover, he is a quick learner and consistently demonstrates a strong work ethic. He takes initiative and is always eager to take on new challenges, making him a valuable asset to the team. He is an effective collaborator and it is a pleasure to work with him. In addition to his technical skills, he is a team player who is always willing to go the extra mile to ensure the success of the team. His dedication, professionalism, and positive attitude make him a standout colleague who is well-respected by his peers. I am confident that he will continue to excel in his future endeavors and make a significant impact wherever he goes. I wholeheartedly recommend him for any role that requires expertise in the backend, and I am certain that he will be a valuable addition to any team.",
+        "position": "Product Management",
+        "relation":"Utkarsh worked with Pakshal on the same team"
+    }
+]
