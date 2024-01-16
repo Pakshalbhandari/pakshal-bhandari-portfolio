@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pakshal-bhandari-portfolio/static/css/main.dcb0bf59.css",
-    "main.js": "/pakshal-bhandari-portfolio/static/js/main.f049bf96.js",
+    "main.js": "/pakshal-bhandari-portfolio/static/js/main.d870bbed.js",
     "static/media/Pakshal.png": "/pakshal-bhandari-portfolio/static/media/Pakshal.59398f6a02be45542812.png",
     "static/media/amrita_logo.jpg": "/pakshal-bhandari-portfolio/static/media/amrita_logo.05c2314b3d56e2e15de1.jpg",
     "static/media/vtu_logo.jpeg": "/pakshal-bhandari-portfolio/static/media/vtu_logo.e26b34967db927025a0a.jpeg",
@@ -19,10 +19,10 @@
     "static/media/icons8-tensorflow.svg": "/pakshal-bhandari-portfolio/static/media/icons8-tensorflow.d978d6b0a450f5416ab4.svg",
     "static/media/icons8-gitlab.svg": "/pakshal-bhandari-portfolio/static/media/icons8-gitlab.c54dbd2d930a01103af9.svg",
     "main.dcb0bf59.css.map": "/pakshal-bhandari-portfolio/static/css/main.dcb0bf59.css.map",
-    "main.f049bf96.js.map": "/pakshal-bhandari-portfolio/static/js/main.f049bf96.js.map"
+    "main.d870bbed.js.map": "/pakshal-bhandari-portfolio/static/js/main.d870bbed.js.map"
   },
   "entrypoints": [
     "static/css/main.dcb0bf59.css",
-    "static/js/main.f049bf96.js"
+    "static/js/main.d870bbed.js"
   ]
 }
