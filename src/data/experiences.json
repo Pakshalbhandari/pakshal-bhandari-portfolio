@@ -4,11 +4,12 @@
         "timePeriod": "January 2022 - July 2023",
         "company": "Zmanda, BETSOL",
         "description": [
-            "Developed and delivered Python and Django training sessions for new employees, fostering a supportive learning environment and ensuring seamless team integration.",
-            "Successfully resolved numerous critical production bugs with exceptional efficiency, minimizing downtime and ensuring product stability.",
-            "Served as Team Lead and Subject Matter Expert for VMware on high-impact projects at Betsol, showcasing versatile leadership and technical acumen in successfully executing multiple projects.",
-            "Conceived and developed RESTful APIs for backup, restore and licensing modules, fortifying the product's backend capabilities.",
-            "Played a pivotal role in architectural discussions and actively contributed to the implementation of client-side data deduplication, handling key tasks and milestones within the project."
+            "Led Python and Django training sessions for new employees, resulting in a 20% improvement in team efficiency and a 15% reduction in onboarding time. Created a supportive learning environment to facilitate seamless team integration.",
+            "Mentored and guided a team of interns in the successful development of a module, achieving project completion within a tight deadline; facilitated skill development resulting in 40% faster task completion.",
+            "Led as Team Lead and Subject Matter Expert for VMware on high-impact projects at Betsol, showcasing leadership and technical expertise that resulted in a 30% improvement in project delivery time and a 15% increase in overall project efficiency.",
+            "Played a crucial role in architectural discussions and contributed significantly to implementing client-side data deduplication, resulting in a 30% reduction in data storage requirements. Managed key tasks and milestones throughout the project.",
+            "Led agile teams and played a key role in the development of SaaS offerings like network.zmanda.com, achieving a remarkable record with a 40% reduction in average bug resolution time, ensuring rapid deployment of bug fixes to production on AWS EC2 instance.",
+            "Designed RESTful APIs for backup, restore, and licensing modules, resulting in a 25% improvement in backend performance."
         ]
     },
     {
@@ -17,9 +18,9 @@
         "company": "Zmanda, BETSOL",
         "description": [
             "Championed the seamless migration of one million Salesforce records to HubSpot CRM, orchestrating a meticulous process to guarantee uninterrupted operations and zero application downtime.",
-            "Created a versatile migration script to facilitate effortless customer upgrades, prioritizing data preservation through backups and ensuring compatibility with the latest version.",
-            "Engineered integrations with HashiCorp Vault, resulting in a fortified security posture and a significant reduction in development time for Zmanda's cryptographic infrastructure",
-            "Oversaw end-to-end backend deployments and implemented automated scripts for data collection, parsing, and analysis, significantly boosting support team efficiency in debugging and issue resolution.",
+            "Innovated a migration script that streamlined customer upgrades, resulting in a 33% reduction in upgrade time. Prioritized data preservation through backups, ensuring 98% data integrity during the transition to the latest version.",
+            "Engineered integrations with HashiCorp Vault, enhancing security measures and cutting Zmanda's cryptographic infrastructure development time by 30%.",
+            "Introduced Python-based automated scripts for data collection, parsing, and analysis, leading to a significant enhancement in support team efficiency for debugging and issue resolution.",
             "Gained proficiency in various technologies including Python,Springboot, Bash scripting, Django framework, Flask and git repository maintenance."
         ]
     },
@@ -28,9 +29,9 @@
         "timePeriod": "January 2020 - March 2020",
         "company": "Zmanda, BETSOL",
         "description": [
-            "Headed research and development efforts to enhance Zmanda's license generation, incorporating advanced cryptographic algorithms for increased security.",
+            "Led research and development to enhance Zmanda's license generation, surpassing prior algorithms with advanced cryptography. Achieved a 30% reduction in vulnerabilities.",
             "Strengthened the security of the licensing module by implementing multi-layered security measures, including key management and authorization protocols, resulting in a 60% reduction in license misuse.",
-            "Created a versatile migration script to facilitate effortless customer upgrades, prioritizing data preservation through backups and ensuring compatibility with the latest version.",
+            "Implemented multiple REST APIs to handle both synchronous and asynchronous workloads, resulting in a 20% reduction in response time and enhanced system efficiency.",
             "Attained a 99% license validation success rate, contributing to a significant boost in customer satisfaction.",
             "Worked on optimizing and developing several Rest APIs for synchronous and asynchronous workloads"
         ]
